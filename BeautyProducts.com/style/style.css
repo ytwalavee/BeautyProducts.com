@@ -1,0 +1,79 @@
+body{background-image:url(../images/bg.jpeg);background-size:100% 810px; padding: 0; margin: 0; background-attachment: fixed;}
+
+/*start product page nav coding*/
+nav{width: 100%; height: 250px; box-sizing: border-box; float: left; background-color: rgba(0,0,0,0.8); padding: 50px;}
+#menu{width: 850px; height: 70px; box-sizing: border-box; margin-top: 10px;}
+#nav-item{width: 20%; box-sizing: border-box;text-align: center; color: white;font-family: sans-serif; font-size: 20px; border-color: #fec3c2; border-width: 2px; border-style: solid;}
+a{text-decoration: none; color: #fec3c2; }
+#products-section2{width: 100%; height: 2550px; box-sizing: border-box; float: left; padding: 50px;}
+#our-product{width: 100%; height: 2400px;background-color: rgba(0, 0, 0, 0.8); margin-top: 30px; float: left; box-sizing: border-box; padding: 20px;}
+/*close product page nav coding*/
+
+/*start homepage section coding*/
+#home-section{width: 700px; height: 407px; box-sizing: border-box; background-image: url(../images/s.png); float: right;}
+#logo{width: 180px; height: 180px; border-color: white; border-style: solid; border-width: 5px; margin-top: 110px; margin-left: 170px;}
+#logo-text{padding:0; margin: 0; font-size: 150px; font-family: verdana; color: white; margin-top: -8px;}
+#domain{font-family: verdana; text-align: center; margin-left: 167px; color: white; font-size: 30px;}
+/*end homepage section coding*/
+
+/*start loginpage nav coding*/
+#domain-name{font-size: 50px; color: white; text-align: center;padding:0; margin: 0;}
+/*end loginpage nav coding*/
+
+/*start login & sign up page section coding*/
+#already-user-textbox{width: 80px; height: 40px; float: right;}
+#login-fieldset{width: 350px; height: 260px;border-color: black; border-style: solid; border-width: 3px;float: right; padding: 20px; margin-top: 200px;}
+#sign-up-fieldset{width: 650px; height: 600px;border-color: black; border-style: solid; border-width: 3px;float: left; padding: 20px; margin-top: -20px;}
+#login-section{width: 100%; height: 790px; box-sizing: border-box; float: right; padding: 50px;}
+#login{width: 100%; height: 700px; box-sizing: border-box; background-color: rgba(255, 255, 255, 0.8); float: left; padding: 50px;}
+#login-legend{color: black; font-size: 30px; font-family: century gothic; font-weight: bold;}
+#sign-up-legend{color: black; font-size: 30px; font-family: century gothic; font-weight: bold;}
+#login-form{color: black; font-size: 22px; font-family: century gothic;}
+#login-username{width: 100%; height: 30px;box-sizing: border-box; background-color: inherit; border: none; border-width: 1px; border-color: black; border-style: solid; font-size: 17px; color: black; margin-top: 10px;}
+#login-password{width: 100%; height: 30px;box-sizing: border-box; background-color: inherit; border: none; border-width: 1px; border-color: black; border-style: solid; font-size: 17px; color: black; margin-top: 10px;}
+#login-button{width: 130px; height: 35px; float: right; box-sizing: border-box; margin-top: 20px; background-color: inherit; border: none; border-width: 1px; border-color: black; border-style: solid; font-size: 18px; color: black; font-family: century gothic; margin-left: 20px;}
+/*end loginpage section coding*/
+
+/*start contacts page section coding*/
+#contact-fieldset{width: 350px; height: 200px;border-color: black; border-style: solid; border-width: 3px;float: right; padding: 20px;}
+#contact-legend{color: black; font-size: 30px; font-family: century gothic; font-weight: bold;}
+#about{width: 100%; height: 700px; box-sizing: border-box; background-color: rgba(255, 255, 255, 0.8); float: left; padding: 50px;}
+#about-title{color: black; font-size: 40px; font-family: sans-serif; text-align: center;}
+#about-text{color: black; font-size: 18px; font-family: century gothic; text-align: justify;}
+#contact-section{width: 100%; height: 790px; box-sizing: border-box; float: right; padding: 50px;}
+#contact{color: black; font-style: normal; font-family: sans-serif; font-size: 20px; line-height: 40px;}
+/*end contacts page section coding*/
+
+/*start home page section coding*/
+#products-section{width: 100%; height: 3098px; box-sizing: border-box; float: left; padding: 50px;}
+#brands{width: 100%; height: 400px; box-sizing: border-box; float: left; background-color: rgba(255, 255, 255, 0.8); padding: 30px;}
+#choose-brand-head{color: black; font-size: 40px; font-family: sans-serif; text-align: center;}
+#logo-box{width: 200px; height: 80px; box-sizing: border-box; border-style: solid; border-width: 2px; border-color: black; float: left; margin-right: 65px;}
+#logo-box-end{width: 200px; height: 80px; box-sizing: border-box; border-style: solid; border-width: 2px; border-color: black; float: left; background-color: white;}
+#logo-pic{width: 100%; height: 76px;}
+#brand-search-box{width: 60%; height: 50px; box-sizing: border-box; margin-top: 20px; margin-left: 20%; margin-right: 20%; font-size: 18px; border: none; border-width: 1px; border-color: #ccc; border-style: solid; background-image: url(../images/search.png); background-size: 40px 40px; background-repeat: no-repeat; background-position: right;}
+#wrimes-cosmetics{width: 100%; height: 500px;background-color: rgba(0, 0, 0, 0.8); margin-top: 50px; float: left; box-sizing: border-box; padding: 20px;}
+#wrimes-cosmetics-title{font-family: century gothic; color: white; font-size: 30px; text-align: center;}
+#wrimes-cosmetics-products{width: 250px; height: 300px; box-sizing: border-box; border-style: solid; border-width: 2px; border-color: white; float: left; margin: 35px;}
+#soni-makeovers{width: 100%; height: 500px;background-color: rgba(0, 0, 0, 0.8); margin-top: 20px; float: left; box-sizing: border-box; padding: 20px;}
+#soni-makeovers-title{font-family: century gothic; color: white; font-size: 30px; text-align: center;}
+#soni-makeovers-products{width: 250px; height: 300px; box-sizing: border-box; border-style: solid; border-width: 2px; border-color: white; float: left; margin: 35px;}
+#wella-professionals{width: 100%; height: 500px;background-color: rgba(0, 0, 0, 0.8); margin-top: 20px; float: left; box-sizing: border-box; padding: 20px;}
+#wella-professionals-title{font-family: century gothic; color: white; font-size: 30px; text-align: center;}
+#wella-professionals-products{width: 250px; height: 300px; box-sizing: border-box; border-style: solid; border-width: 2px; border-color: white; float: left; margin: 35px;}
+#zest-beauty{width: 100%; height: 500px;background-color: rgba(0, 0, 0, 0.8); margin-top: 20px; float: left; box-sizing: border-box; padding: 20px;}
+#zest-beauty-title{font-family: century gothic; color: white; font-size: 30px; text-align: center;}
+#zest-beauty-products{width: 250px; height: 300px; box-sizing: border-box; border-style: solid; border-width: 2px; border-color: white; float: left; margin: 35px;}
+#revlon{width: 100%; height: 500px;background-color: rgba(0, 0, 0, 0.8); margin-top: 20px; float: left; box-sizing: border-box; padding: 20px;}
+#revlon-title{font-family: century gothic; color: white; font-size: 30px; text-align: center;}
+#revlon-products{width: 250px; height: 300px; box-sizing: border-box; border-style: solid; border-width: 2px; border-color: white; float: left; margin: 35px;}
+#products-img{width: 245px; height: 240px;}
+#product-name{color:white; font-family: sans-serif; padding: 0; margin: 0; margin-top: 7px; text-align: center; font-size: 18px;}
+#product-price{color:white; font-family: sans-serif; padding: 0; margin: 0; margin-top: 5px; float: left; margin-left: 5px;}
+#product-buy{color:white; font-family: sans-serif; padding: 0; margin: 0; margin-top: 5px; float: right; margin-right: 5px;}
+/*end home page section coding*/
+
+/*start footer coding*/
+#foot{width: 100%; height: 60px; box-sizing: border-box; background-color: rgba(0, 0, 0, 0.8); float: left;}
+h4{color: white; font-family: century gothic; text-align: center;}
+/*end footer coding*/
